@@ -1,0 +1,14 @@
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+        <rdf:Description rdf:about="https://www.linkedin.com/in/gabriel-dimitrievski-a678761a9/">
+                <vcard:LABEL>Test Label</vcard:LABEL>
+                <vcard:NAME>Test Name</vcard:NAME>
+                <vcard:ORG rdf:parseType="Resource">
+                </vcard:ORG>
+                <vcard:Street>test street 19</vcard:Street>
+                <vcard:EMAIL>email@test.com</vcard:EMAIL>
+                <vcard:Country>MK</vcard:Country>
+                <vcard:FN>Gabriel D.</vcard:FN>
+        </rdf:Description>
+</rdf:RDF>
